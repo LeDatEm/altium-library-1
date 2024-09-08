@@ -64,10 +64,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AQORKFSC
+DocumentUniqueId=GMIVLSFD
 
 [Document2]
-DocumentPath=footprints\INDUCTOR 0630\INDUCTOR 0603.SchLib
+DocumentPath=footprints\INDUCTOR 0630\INDUCTOR 0630.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,7 +81,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VNPQDUNK
+DocumentUniqueId=JVHTISAB
 
 [SearchPath1]
 Path=G:\My Drive\GitHub\altium-library\MyLibrary\footprints\INDUCTOR 0630\*.*
